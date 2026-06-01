@@ -34,7 +34,6 @@ REJECTION_PATTERNS = {
         r'forget\s+(all\s+)?(previous\s+)?instructions',
         r'new\s+instructions',
         r'override\s+(all\s+)?rules',
-        r'jailbreak',
         r'bypass\s+(safety|filter|restriction)',
     ],
     'secrets_request': [
